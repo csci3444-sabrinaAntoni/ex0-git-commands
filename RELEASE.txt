@@ -1,1 +1,11 @@
-This is release v0.1
+On branch master
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+	modified:   RELEASE.txt
+
+Untracked files:
+	.gitignore
+	script.js
+
+no changes added to commit
