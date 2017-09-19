@@ -1,1 +1,2 @@
-This is release v0.1
+[master c23dd12] changed release verstion to v0.1.1
+ 1 file changed, 1 insertion(+), 11 deletions(-)
